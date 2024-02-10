@@ -1,5 +1,5 @@
 1. Для double
->> $ $ cmake -USE-DOUBLE=ON
+>> $ cmake -USE-DOUBLE=ON
 
 >> $ cmake --build ./
 
