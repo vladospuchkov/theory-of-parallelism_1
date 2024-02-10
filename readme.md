@@ -3,7 +3,7 @@
 
 >> $ cmake --build ./
 
->> $ ././task1
+>> $ ./task1
 
 2. Для float 
 
@@ -11,7 +11,7 @@
 
 >> $ cmake --build ./
 
->> $ ././task1
+>> $ ./task1
 3. Вывод
     0.154799 - float
     1.57556e-10 - double 
